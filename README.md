@@ -1,6 +1,5 @@
 # 🛡️ Python NIDS — Network Intrusion Detection System
-
-**CodeAlpha Cybersecurity Internship — Task 4**  
+  
 **Author:** Adithyan V  
 **Language:** Python 3 | **Library:** Scapy
 
@@ -8,7 +7,7 @@
 
 ## 📌 Overview
 
-A custom-built **Network Intrusion Detection System (NIDS)** that monitors live network traffic and detects common attacks in real time. Built with Python and Scapy as part of the CodeAlpha Cybersecurity Internship.
+A custom-built **Network Intrusion Detection System (NIDS)** that monitors live network traffic and detects common attacks in real time. Built with Python and Scapy as part of the Personal Cybersecurity Project.
 
 ---
 
@@ -54,8 +53,8 @@ pip install scapy
 
 ### Clone & Run
 ```bash
-git clone https://github.com/aadithynn/CodeAlpha_Network-Intrusion-Detection-System
-cd CodeAlpha_Network-Intrusion-Detection-System/nids
+git clone https://github.com/aadithynn/aadithynn/python-nids
+cd aadithynn/python-nids/nids
 
 # Terminal 1 — Start NIDS (must be root)
 sudo python3 nids.py
@@ -111,7 +110,7 @@ Network Traffic
 
 ## ⚠️ Legal Disclaimer
 
-This tool is built for **educational purposes** as part of the CodeAlpha internship.  
+This tool is built for **educational purposes** as a personal cybersecurity project.  
 Only use on networks you own or have explicit permission to monitor.  
 The attack simulator (`test_attacks.py`) should only be run in isolated lab environments.
 
@@ -122,4 +121,4 @@ The attack simulator (`test_attacks.py`) should only be run in isolated lab envi
 - [Scapy Documentation](https://scapy.readthedocs.io/)
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - [Snort Rules Reference](https://www.snort.org/rules_explanation)
-- CodeAlpha Cybersecurity Internship Program
+- Personal Cybersecurity Project Program
