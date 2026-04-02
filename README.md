@@ -53,8 +53,8 @@ pip install scapy
 
 ### Clone & Run
 ```bash
-git clone https://github.com/aadithynn/aadithynn/python-nids
-cd aadithynn/python-nids/nids
+git clone https://github.com/aadithynn/Network-Intrusion-Detection-System
+cd Network-Intrusion-Detection-System
 
 # Terminal 1 — Start NIDS (must be root)
 sudo python3 nids.py
